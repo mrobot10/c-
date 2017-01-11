@@ -1,3 +1,5 @@
+/*It's a projectile simulator project when user enters inputs for a ball which we'll track its way after being thrown with 
+an initial speed,angle, and from a certain height */
 #include <iostream>
 #include <string>
 #include <fstream>
